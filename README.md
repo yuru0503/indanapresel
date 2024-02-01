@@ -12,10 +12,11 @@ inducer breeding.
 
 ## Installation
 
-You can install the development version of indanapresel like so:
+You can install the development version of indanapresel package:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+#install.packages("devtools")
+devtools::install_github("yuru0503/indanapresel")
 ```
 
 ## Example

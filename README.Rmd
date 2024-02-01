@@ -23,10 +23,11 @@ The goal of indanapresel package is to provide R functions for data analysis, vi
 
 ## Installation
 
-You can install the development version of indanapresel like so:
+You can install the development version of indanapresel package:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+#install.packages("devtools")
+devtools::install_github("yuru0503/indanapresel")
 ```
 
 ## Example

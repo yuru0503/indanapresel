@@ -1,0 +1,10 @@
+install.packages("available")
+library(available)
+available("indanapresel")
+
+library(usethis)
+use_readme_rmd()
+#gh_token_help()
+#create_github_token()
+use_github(protocol = "https")
+
