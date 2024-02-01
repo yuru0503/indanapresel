@@ -4,7 +4,7 @@ Title: Workflows for Genomic Selection in Maternal Haploid Inducer Breeding
 Version: 0.1.0
 Author: Yu-Ru Chen [aut, cre]
 Maintainer: The package maintainer <yuruchen@iastate.edu>
-Description: Provide functions in R for data analysis, visualization, prediction, and selection in maternal haploid inducer breeding. 
+Description: Provides functions in R for data analysis, visualization, prediction, and selection in maternal haploid inducer breeding. 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
