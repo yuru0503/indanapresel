@@ -7,4 +7,4 @@ use_readme_rmd()
 #gh_token_help()
 #create_github_token()
 use_github(protocol = "https")
-
+use_git()
